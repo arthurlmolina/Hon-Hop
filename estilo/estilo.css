@@ -52,17 +52,18 @@ body{
 
 header > h1{
     font-family: 'dela-gothic';
-    text-align: center;
+
     color: white;
-    font-size: 100px;
     margin-bottom: 10px;
+    text-align: center;
+    font-size: 80px;
 }
 
 header > h2{
     color: white;
     font-family: 'clone-thin';
     text-align: center;
-    font-size: 50px;
+    font-size: 40px;
     margin-top: 10px;
 }
 
