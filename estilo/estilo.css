@@ -52,12 +52,13 @@ body{
 
 header > h1{
     font-family: 'dela-gothic';
-
-    color: white;
     margin-bottom: 10px;
     text-align: center;
     font-size: 80px;
+    min-width: 200px;
+    color: white;
 }
+
 
 header > h2{
     color: white;
